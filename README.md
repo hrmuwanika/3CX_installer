@@ -7,7 +7,7 @@ Repository hosting script for installing 3CX on clean Debian system without the 
 - Install 3CX on clean Debian
 - Version selection (Usefull for backup/restore) 
 
-## Debian 12 (bookworm) TESTING
+## Debian 12 (bookworm)
 ``` 
 git clone https://github.com/hrmuwanika/3CX_installer
 cd 3CXinstaller
